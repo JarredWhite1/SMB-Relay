@@ -10,8 +10,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>ntlmrelayx.py</b>
-- 
+- <b>ntlmrelayx.py</b>(https://github.com/fortra/impacket/blob/master/examples/ntlmrelayx.py)
+ 
 
 <h2>Environments Used </h2>
 
