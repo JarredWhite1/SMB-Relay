@@ -17,7 +17,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 - <b>Kali Linux</b> 
 - <b>Windows 10</b> (21H2)
-- 
+  
 <h2>Program walk-through:</h2>
 
 <p align="center">
