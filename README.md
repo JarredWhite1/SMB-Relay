@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of perfroming an smb relay attack on in an internal network penetration test.
 <br />
 
 
@@ -22,7 +22,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/NjAmoDs" height="80%" width="80%" alt="What is Smb Relay"/>
+<img src="(https://github.com/JarredWhite1/SMB-Relay/assets/125150739/f7fb7801-f01a-41e4-a05f-eec61c0e22e9)
+" height="80%" width="80%" alt="What is Smb Relay"/>
 <br />
 <br />
 Select the disk:  <br/>
